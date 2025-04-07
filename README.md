@@ -50,4 +50,4 @@ projeto.py – Script principal de automação.
 
 produtos.csv – Arquivo contendo os produtos a serem cadastrados.
 
-auxilio.py – Um script auxiliar que espera 10 segundos e imprime a posição do mouse (provavelmente para ajustar os cliques do pyautogui).
+auxilio.py – Um script auxiliar que espera 10 segundos e imprime a posição do mouse para ajustar os cliques do pyautogui.
