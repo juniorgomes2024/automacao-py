@@ -1,4 +1,4 @@
-Seu projeto é um automação de cadastro de produtos utilizando Python e a biblioteca PyAutoGUI. Aqui está um resumo detalhado do que o script faz:
+o projeto é uma automação de cadastro de produtos utilizando Python e a biblioteca PyAutoGUI.
 Objetivo do Projeto
 O código automatiza o cadastro de produtos em um sistema web, abrindo o navegador, acessando a página de login, inserindo as credenciais e preenchendo os campos com os dados de um arquivo CSV.
 Passo a Passo do Código:
